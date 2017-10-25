@@ -1,0 +1,48 @@
+[2017-04-27 18:17:27.513] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\friendDao.js] [39m@@@@@@@@@getFriend@@@@@@@@@@
+[2017-04-27 18:17:27.572] [ERROR] guilin - [31m[e:\zipai\zipai_server\game-server\app\dao\friendDao.js] [39mgetFriend err : Error: ER_BAD_FIELD_ERROR: Unknown column 'user1' in 'field list'
+[2017-04-27 18:17:31.314] [ERROR] guilin - [31m[e:\zipai\zipai_server\game-server\app\dao\friendDao.js] [39mgetFriend err : Error: ER_BAD_FIELD_ERROR: Unknown column 'user1' in 'field list'
+[2017-04-27 18:17:31.314] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\servers\game\handler\friendHandler.js] [39m[getRequest] fail to invoke register for Error: ER_BAD_FIELD_ERROR: Unknown column 'user1' in 'field list'
+    at Query.Sequence._packetToError (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Sequence.js:52:14)
+    at Query.ErrorPacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:280:23)
+    at Parser.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Parser.js:75:12)
+    at Protocol.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:39:16)
+    at Socket.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Connection.js:103:28)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    --------------------
+    at Protocol._enqueue (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:141:48)
+    at PoolConnection.query (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Connection.js:208:25)
+    at e:\zipai\zipai_server\game-server\app\dao\mysql\mysql.js:32:10
+    at Ping.onOperationComplete [as _callback] (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.Sequence.end (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Sequence.js:86:24)
+    at Ping.Sequence.OkPacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Sequence.js:95:8)
+    at Protocol._parsePacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:280:23)
+    at Parser.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Parser.js:75:12)
+    at Protocol.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:39:16)
+    at Socket.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Connection.js:103:28)
+[2017-04-27 18:17:35.775] [ERROR] guilin - [31m[e:\zipai\zipai_server\game-server\app\dao\friendDao.js] [39mgetFriend err : Error: ER_BAD_FIELD_ERROR: Unknown column 'user1' in 'field list'
+[2017-04-27 18:17:35.775] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\servers\game\handler\friendHandler.js] [39m[getRequest] fail to invoke register for Error: ER_BAD_FIELD_ERROR: Unknown column 'user1' in 'field list'
+    at Query.Sequence._packetToError (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Sequence.js:52:14)
+    at Query.ErrorPacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:280:23)
+    at Parser.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Parser.js:75:12)
+    at Protocol.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:39:16)
+    at Socket.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Connection.js:103:28)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    --------------------
+    at Protocol._enqueue (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:141:48)
+    at PoolConnection.query (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Connection.js:208:25)
+    at e:\zipai\zipai_server\game-server\app\dao\mysql\mysql.js:32:10
+    at Ping.onOperationComplete [as _callback] (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.Sequence.end (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Sequence.js:86:24)
+    at Ping.Sequence.OkPacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\sequences\Sequence.js:95:8)
+    at Protocol._parsePacket (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:280:23)
+    at Parser.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Parser.js:75:12)
+    at Protocol.write (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\protocol\Protocol.js:39:16)
+    at Socket.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\mysql\lib\Connection.js:103:28)

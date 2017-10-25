@@ -1,0 +1,182 @@
+[2017-04-20 20:30:11.652] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 10, host: 192.168.0.133, port: 6051
+[2017-04-20 20:30:25.214] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 14, host: 192.168.0.133, port: 6051
+[2017-04-21 16:31:41.770] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 121, host: 192.168.0.133, port: 6051
+[2017-04-21 16:37:21.201] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 222, host: 192.168.0.133, port: 6051
+[2017-04-21 19:47:51.506] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 103, host: 192.168.0.133, port: 6051
+[2017-04-22 09:58:58.802] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 90, host: 192.168.0.133, port: 6051
+[2017-04-22 10:08:44.086] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 306, host: 192.168.0.133, port: 6051
+[2017-04-22 10:08:47.118] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 307, host: 192.168.0.133, port: 6051
+[2017-04-22 10:09:23.364] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 327, host: 192.168.0.133, port: 6051
+[2017-04-22 10:09:23.992] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 328, host: 192.168.0.133, port: 6051
+[2017-04-22 10:09:24.004] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 329, host: 192.168.0.133, port: 6051
+[2017-04-22 10:09:47.302] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 334, host: 192.168.0.133, port: 6051
+[2017-04-22 10:21:07.824] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 406, host: 192.168.0.133, port: 6051
+[2017-04-22 18:47:57.085] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 199, host: 192.168.0.133, port: 6051
+[2017-04-22 18:49:30.237] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 218, host: 192.168.0.133, port: 6051
+[2017-04-22 18:51:24.414] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 264, host: 192.168.0.133, port: 6051
+[2017-04-22 20:43:24.302] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 298, host: 192.168.0.133, port: 6051
+[2017-04-22 20:43:45.237] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 307, host: 192.168.0.133, port: 6051
+[2017-04-22 21:45:40.434] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fight-server-1 host: 192.168.0.133, port: 6051
+[2017-04-24 09:51:31.732] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 37, host: 192.168.0.133, port: 6051
+[2017-04-24 22:03:49.611] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 0, host: 192.168.0.133, port: 6051
+[2017-04-24 22:06:10.861] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 0, host: 192.168.0.133, port: 6052
+[2017-04-25 16:51:03.144] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 8, host: 192.168.0.133, port: 6051
+[2017-04-25 19:11:24.341] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 12 host: 192.168.0.133, port: 6051
+[2017-04-25 19:11:24.345] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 12 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:11:24.346] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":6,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":3,"frontendId":"connector-server-1","uid":"809","settings":{"roomId":"4366"}}]}, error code: 5
+[2017-04-25 19:11:25.542] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 13 host: 192.168.0.133, port: 6051
+[2017-04-25 19:11:25.544] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 13 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:11:25.545] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":6,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":2,"frontendId":"connector-server-1","uid":"96","settings":{"roomId":"4366"}}]}, error code: 5
+[2017-04-25 19:13:14.455] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 12 host: 192.168.0.133, port: 6051
+[2017-04-25 19:13:14.456] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 12 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:13:14.456] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":10,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":4,"frontendId":"connector-server-1","uid":"822","settings":{"roomId":"8337"}}]}, error code: 5
+[2017-04-25 19:13:14.457] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 13 host: 192.168.0.133, port: 6051
+[2017-04-25 19:13:14.457] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 13 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:13:14.457] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":8,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":6,"frontendId":"connector-server-1","uid":"158","settings":{"roomId":"8337"}}]}, error code: 5
+[2017-04-25 19:13:14.491] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 14 host: 192.168.0.133, port: 6051
+[2017-04-25 19:13:14.492] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 14 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:13:14.492] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":6,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":1,"frontendId":"connector-server-1","uid":"140","settings":{"roomId":"8337"}}]}, error code: 5
+[2017-04-25 19:13:51.716] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 27 host: 192.168.0.133, port: 6051
+[2017-04-25 19:13:51.716] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 27 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:13:51.717] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":6,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":9,"frontendId":"connector-server-1","uid":"823","settings":{"roomId":"0260"}}]}, error code: 5
+[2017-04-25 19:13:51.860] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 28 host: 192.168.0.133, port: 6051
+[2017-04-25 19:13:51.860] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 28 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:13:51.860] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":6,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":7,"frontendId":"connector-server-1","uid":"6","settings":{"roomId":"0260"}}]}, error code: 5
+[2017-04-25 19:13:51.861] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 29 host: 192.168.0.133, port: 6051
+[2017-04-25 19:13:51.861] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 29 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:13:51.861] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":6,"type":0,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":8,"frontendId":"connector-server-1","uid":"695","settings":{"roomId":"0260"}}]}, error code: 5
+[2017-04-25 19:15:56.547] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 53 host: 192.168.0.133, port: 6051
+[2017-04-25 19:15:56.548] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 53 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:15:56.548] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":0,"type":1,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":12,"frontendId":"connector-server-1","uid":"825","settings":{"roomId":"9094"}}]}, error code: 5
+[2017-04-25 19:15:56.761] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 54 host: 192.168.0.133, port: 6051
+[2017-04-25 19:15:56.761] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 54 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:15:56.762] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":0,"type":1,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":11,"frontendId":"connector-server-1","uid":"824","settings":{"roomId":"9094"}}]}, error code: 5
+[2017-04-25 19:15:56.773] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 55 host: 192.168.0.133, port: 6051
+[2017-04-25 19:15:56.774] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 55 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:15:56.774] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":0,"type":1,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":15,"frontendId":"connector-server-1","uid":"827","settings":{"roomId":"9094"}}]}, error code: 5
+[2017-04-25 19:16:02.860] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 61 host: 192.168.0.133, port: 6051
+[2017-04-25 19:16:02.860] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 61 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:16:02.860] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":0,"type":1,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":16,"frontendId":"connector-server-1","uid":"78","settings":{"roomId":"5523"}}]}, error code: 5
+[2017-04-25 19:16:03.076] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 62 host: 192.168.0.133, port: 6051
+[2017-04-25 19:16:03.076] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 62 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:16:03.076] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":0,"type":1,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":10,"frontendId":"connector-server-1","uid":"77","settings":{"roomId":"5523"}}]}, error code: 5
+[2017-04-25 19:16:03.309] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 63 host: 192.168.0.133, port: 6051
+[2017-04-25 19:16:03.309] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 63 host: 192.168.0.133, port: 6051
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-25 19:16:03.309] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"sys","serverType":"fight","service":"msgRemote","method":"forwardMessage","args":[{"id":0,"type":1,"compressRoute":1,"route":"fight.fightHandler.requestInstStart","body":{},"compressGzip":0},{"id":14,"frontendId":"connector-server-1","uid":"826","settings":{"roomId":"5523"}}]}, error code: 5
+[2017-04-26 00:28:46.109] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fight-server-1 host: 192.168.0.133, port: 6051
+[2017-04-26 11:18:30.719] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 115, host: 192.168.0.133, port: 6051
+[2017-04-26 11:37:31.031] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 96, host: 192.168.0.133, port: 6051
+[2017-04-26 11:37:31.657] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 97, host: 192.168.0.133, port: 6051
+[2017-04-26 11:37:31.675] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 98, host: 192.168.0.133, port: 6051
+[2017-04-26 23:39:52.466] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fight-server-1 host: 192.168.0.133, port: 6051
+[2017-04-28 15:30:46.590] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 20, host: 192.168.0.133, port: 6051
+[2017-04-28 15:41:24.138] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 13, host: 192.168.0.133, port: 6052
+[2017-04-28 15:45:50.112] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 41, host: 192.168.0.133, port: 6052
+[2017-04-28 17:27:49.935] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 5, host: 192.168.0.133, port: 6050
+[2017-04-28 18:01:03.780] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 4, host: 192.168.0.133, port: 6051
+[2017-04-28 18:02:03.209] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 10, host: 192.168.0.133, port: 6051
+[2017-04-28 18:04:43.730] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 2, host: 192.168.0.133, port: 6051
+[2017-04-28 19:52:25.282] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 6, host: 192.168.0.133, port: 6051
+[2017-04-28 19:52:51.200] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 11, host: 192.168.0.133, port: 6051
+[2017-04-28 21:10:18.599] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fight-server-1 host: 192.168.0.133, port: 6050
+[2017-04-28 21:10:18.602] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fight-server-1 host: 192.168.0.133, port: 6050
+[2017-04-28 21:10:48.602] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 192.168.0.133, port: 6050
+[2017-04-28 21:10:48.607] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 192.168.0.133, port: 6050
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-04-28 21:10:48.607] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: fight-server-1, msg: {"namespace":"user","serverType":"fight","service":"roomRemote","method":"kick","args":["375","connector-server-1"]}, error code: 5
+[2017-04-28 21:28:43.527] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 30, host: 192.168.0.120, port: 6052
+[2017-04-28 21:35:33.644] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 5, host: 192.168.0.120, port: 6050
+[2017-04-28 21:49:09.457] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 14, host: 192.168.0.120, port: 6050
+[2017-05-02 14:25:42.837] [ERROR] pomelo-rpc - [31m[mqtt-acceptor] [39mrpc server is error: "Error: listen EADDRINUSE :::4050\n    at Object.exports._errnoException (util.js:1022:11)\n    at exports._exceptionWithHostPort (util.js:1045:20)\n    at Server._listen2 (net.js:1259:14)\n    at listen (net.js:1295:10)\n    at Server.listen (net.js:1391:5)\n    at Acceptor.pro.listen (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\acceptors\\mqtt-acceptor.js:38:15)\n    at Gateway.pro.start (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\gateway.js:49:17)\n    at Component.pro.start (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo\\lib\\components\\remote.js:54:15)\n    at e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo\\lib\\util\\appUtil.js:111:19\n    at iterate (e:\\zipai\\zipai_server\\game-server\\node_modules\\async\\lib\\async.js:123:13)"
+[2017-05-02 14:27:34.006] [ERROR] pomelo-rpc - [31m[mqtt-acceptor] [39mrpc server is error: "Error: listen EADDRINUSE :::4050\n    at Object.exports._errnoException (util.js:1022:11)\n    at exports._exceptionWithHostPort (util.js:1045:20)\n    at Server._listen2 (net.js:1259:14)\n    at listen (net.js:1295:10)\n    at Server.listen (net.js:1391:5)\n    at Acceptor.pro.listen (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\acceptors\\mqtt-acceptor.js:38:15)\n    at Gateway.pro.start (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\gateway.js:49:17)\n    at Component.pro.start (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo\\lib\\components\\remote.js:54:15)\n    at e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo\\lib\\util\\appUtil.js:111:19\n    at iterate (e:\\zipai\\zipai_server\\game-server\\node_modules\\async\\lib\\async.js:123:13)"
+[2017-05-02 14:28:00.462] [ERROR] pomelo-rpc - [31m[mqtt-acceptor] [39mrpc server is error: "Error: listen EADDRINUSE :::4050\n    at Object.exports._errnoException (util.js:1022:11)\n    at exports._exceptionWithHostPort (util.js:1045:20)\n    at Server._listen2 (net.js:1259:14)\n    at listen (net.js:1295:10)\n    at Server.listen (net.js:1391:5)\n    at Acceptor.pro.listen (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\acceptors\\mqtt-acceptor.js:38:15)\n    at Gateway.pro.start (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\gateway.js:49:17)\n    at Component.pro.start (e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo\\lib\\components\\remote.js:54:15)\n    at e:\\zipai\\zipai_server\\game-server\\node_modules\\pomelo\\lib\\util\\appUtil.js:111:19\n    at iterate (e:\\zipai\\zipai_server\\game-server\\node_modules\\async\\lib\\async.js:123:13)"
+[2017-05-02 14:37:54.512] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 192.168.0.120, port: 3250
+[2017-05-02 14:37:54.517] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 192.168.0.120, port: 3250
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-05-02 14:37:54.518] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: game-server-1, msg: {"namespace":"sys","serverType":"game","service":"msgRemote","method":"forwardMessage","args":[{"id":3,"type":0,"compressRoute":1,"route":"game.friendHandler.searchFriend","body":{"userId":1},"compressGzip":0},{"id":1,"frontendId":"connector-server-1","uid":"652","settings":{}}]}, error code: 5
+[2017-05-02 14:37:56.207] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 192.168.0.120, port: 3250
+[2017-05-02 14:37:56.207] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 192.168.0.120, port: 3250
+    at Timeout.<anonymous> (e:\zipai\zipai_server\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+[2017-05-02 14:37:56.207] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: game-server-1, msg: {"namespace":"sys","serverType":"game","service":"msgRemote","method":"forwardMessage","args":[{"id":4,"type":0,"compressRoute":1,"route":"game.friendHandler.searchFriend","body":{"userId":1},"compressGzip":0},{"id":1,"frontendId":"connector-server-1","uid":"652","settings":{}}]}, error code: 5
+[2017-05-02 15:52:03.389] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 24, host: 192.168.0.120, port: 6051
+[2017-05-02 16:13:39.092] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 8, host: 192.168.0.120, port: 6051
+[2017-05-03 14:30:59.678] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 4, host: 192.168.0.120, port: 6051
+[2017-05-03 14:33:33.693] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 4, host: 192.168.0.120, port: 6051
+[2017-05-03 14:35:04.515] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 9, host: 192.168.0.120, port: 6051
+[2017-05-03 17:53:15.650] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 588, host: 192.168.0.120, port: 6051
+[2017-05-03 17:53:15.675] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 589, host: 192.168.0.120, port: 6051
+[2017-05-04 10:20:41.508] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 94, host: 192.168.0.120, port: 6051
+[2017-05-04 10:21:45.477] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 108, host: 192.168.0.120, port: 6051
+[2017-05-04 15:34:06.061] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 6, host: 192.168.0.120, port: 6051
+[2017-05-04 15:34:39.488] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 12, host: 192.168.0.120, port: 6051
+[2017-05-04 15:47:52.042] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 6, host: 192.168.0.120, port: 6051
+[2017-05-04 15:50:23.607] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 8, host: 192.168.0.120, port: 6051
+[2017-05-04 15:50:53.435] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 14, host: 192.168.0.120, port: 6051
+[2017-05-04 16:04:48.989] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 54, host: 192.168.0.120, port: 6051
+[2017-05-04 16:14:49.781] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 19, host: 192.168.0.120, port: 6051
+[2017-05-04 16:17:50.160] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 6, host: 192.168.0.120, port: 6051

@@ -1,0 +1,278 @@
+[2017-07-29 19:29:22.163] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-29 19:29:23.389] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 10:04:55.798] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 10:04:57.513] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 10:04:59.673] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 10:05:01.408] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 10:05:03.399] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 10:05:04.589] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:08:27.676] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:08:29.191] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:12:53.715] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:12:55.323] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:23:26.039] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:23:27.631] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:23:30.100] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:23:31.659] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:23:35.517] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:23:37.138] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:30:42.662] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:30:44.305] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:30:54.558] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:30:56.093] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:30:58.542] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:31:00.144] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:31:01.277] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:31:04.104] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:34:19.309] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 11:34:20.855] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:34:29.203] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 11:34:30.359] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:34:43.975] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 11:34:45.340] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:40:39.380] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 11:40:40.741] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:40:48.250] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 11:40:49.840] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:41:49.128] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 11:41:50.586] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:41:56.315] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 11:41:58.134] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:55:35.623] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:55:37.175] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:55:39.783] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:55:41.561] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:55:46.768] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:55:48.387] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:55:58.122] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:55:59.764] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 11:58:26.186] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 11:58:27.586] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:25:56.164] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:25:57.941] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:29:12.467] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html?_ijt=cp5j4dg3uqk0f41k3ga554og7f
+[2017-07-31 15:29:14.117] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:31:18.458] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html?_ijt=cp5j4dg3uqk0f41k3ga554og7f
+[2017-07-31 15:31:20.365] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:32:47.286] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:32:49.004] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:34:27.213] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:34:28.990] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:34:59.344] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html?_ijt=cp5j4dg3uqk0f41k3ga554og7f
+[2017-07-31 15:35:00.897] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:36:56.043] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:36:57.623] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:37:39.752] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:37:41.263] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:39:20.743] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:39:21.844] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:40:38.090] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:40:39.201] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:41:34.612] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:41:36.151] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:43:24.055] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:43:25.655] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:47:57.481] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:47:58.742] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:48:33.603] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:48:35.284] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 15:50:08.527] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-07-31 15:50:10.167] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:11:24.778] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 16:11:41.385] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:41:33.171] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 16:41:34.886] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:43:09.566] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 16:43:12.386] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:43:33.526] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 16:43:35.006] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:49:10.722] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 16:49:13.763] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:50:33.956] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 16:50:36.450] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:50:36.499] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 16:50:37.986] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:50:41.934] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 16:50:44.393] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:51:30.158] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 16:51:31.711] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:52:24.236] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-07-31 16:52:27.311] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 16:56:33.255] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 16:56:35.402] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:00:44.477] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:00:46.675] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:05:59.319] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:06:01.896] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:08:10.334] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:08:11.625] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:08:55.881] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:08:58.374] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:09:16.245] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:09:17.504] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:11:06.190] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:11:09.384] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:15:44.252] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:15:46.710] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:19:03.873] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:19:06.415] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:36:29.970] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:36:32.732] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:44:25.755] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:44:27.994] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:57:57.673] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:58:00.575] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 17:59:06.489] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 17:59:09.269] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:00:03.357] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:00:05.934] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:17:55.444] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:17:58.548] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:18:49.455] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:18:51.924] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:19:09.779] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:19:11.971] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:19:25.543] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:19:27.405] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:20:47.592] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:20:49.450] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:22:54.141] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:22:56.105] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:25:01.446] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:25:03.028] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:28:25.787] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:28:28.134] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:47:25.115] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:47:27.395] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:48:03.494] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:48:05.349] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:49:28.461] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:49:30.825] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:51:49.358] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:51:51.829] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:53:28.180] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:53:30.169] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 18:57:05.232] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 18:57:06.933] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 19:01:40.461] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 19:01:42.753] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 19:03:31.406] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 19:03:33.464] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 19:07:17.302] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 19:07:20.845] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-07-31 19:19:16.756] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-07-31 19:19:18.863] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 09:37:11.131] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 09:37:14.545] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 09:38:09.460] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 09:38:11.541] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 09:38:14.588] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 09:38:17.150] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 09:41:07.643] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 09:41:10.188] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 09:49:02.191] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 09:49:04.327] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 09:51:22.971] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 09:51:25.258] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 09:58:18.102] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 09:58:20.545] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:00:07.346] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:00:10.377] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:11:11.718] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:11:14.537] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:16:47.880] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:16:51.028] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:20:13.474] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:20:15.877] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:20:27.917] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:20:30.646] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:22:37.824] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:22:40.518] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:24:40.380] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:24:53.382] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:26:24.014] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:26:27.299] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:27:47.375] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:27:50.035] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:29:37.299] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:29:44.082] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:31:02.001] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:31:05.549] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:32:37.790] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:32:41.126] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:34:06.294] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:34:09.403] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 10:36:13.368] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 10:36:16.756] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-01 11:03:42.549] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue:http://192.168.0.117:8080/
+[2017-08-01 11:03:45.875] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [22587] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-02 17:28:40.510] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5617] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-02 17:28:47.363] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5617] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-03 11:44:52.812] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5617] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-03 11:44:54.872] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5617] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-03 14:11:18.866] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-03 14:11:20.740] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-03 14:12:01.688] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-03 14:12:04.340] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-03 14:12:35.966] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-03 14:12:37.317] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-03 14:16:52.583] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-03 14:16:54.207] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-03 15:37:56.624] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-03 15:37:58.636] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-14 17:35:36.947] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-14 17:35:38.284] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-14 17:35:41.072] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-14 17:35:42.097] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [27669] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-15 19:22:14.925] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-15 19:22:21.223] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-15 21:47:41.784] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-15 21:47:48.265] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-15 21:50:48.566] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-15 21:50:49.998] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 09:42:28.109] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-16 09:42:29.521] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 09:42:33.603] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-16 09:42:34.705] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:45:30.813] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:45:36.973] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:45:41.291] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:45:46.237] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:45:51.680] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:45:52.352] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:51:59.377] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:52:05.261] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:52:09.785] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:52:14.519] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:52:19.702] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:52:20.651] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:52:24.919] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:52:30.105] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:55:12.117] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:55:17.861] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:55:22.837] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 10:55:27.528] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:55:28.206] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 10:55:33.215] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:02:05.501] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 11:02:13.229] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 11:02:16.052] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:02:17.756] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 11:02:23.657] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:02:28.284] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:02:29.693] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 11:02:40.139] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:02:50.551] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 11:02:54.484] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 11:02:59.146] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://localhost:63342/zipai_client/client/index.html
+[2017-08-16 11:03:01.240] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:03:05.160] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:03:06.904] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:36:33.530] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-16 11:36:36.139] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-16 11:36:46.590] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 11:36:48.972] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-16 15:18:31.271] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-16 15:18:37.886] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5502] [39mget wxpWebhandler/getSignatrue result:undefined
+[2017-08-29 11:25:38.406] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5854] [39mget wxpWebhandler/getSignatrue:http://192.168.0.250/
+[2017-08-29 11:25:40.989] [INFO] fight - [32m[/home/zipai_server/game-server/app/servers/game/handler/wxPWebHandler.js] [5854] [39mget wxpWebhandler/getSignatrue result:undefined

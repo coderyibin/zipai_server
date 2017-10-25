@@ -1,0 +1,203 @@
+[2017-07-21 19:55:32.705] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-21 19:55:32.705] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 434 ms
+[2017-07-21 19:56:19.081] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-21 19:56:19.893] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-21 19:56:19.894] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-21 19:56:19.894] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 577 ms
+[2017-07-21 19:56:41.943] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-21 19:56:42.550] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-21 19:56:42.551] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-21 19:56:42.551] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 491 ms
+[2017-07-21 19:56:42.597] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"fight-server-1","host":"192.168.0.250","port":6051,"serverType":"fight","pid":26487}}
+[2017-07-21 19:56:42.604] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":26481}}
+[2017-07-21 19:56:42.605] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"gate-server-1","host":"192.168.0.250","clientPort":3014,"frontend":"true","serverType":"gate","pid":26512}}
+[2017-07-24 13:54:54.744] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-24 13:54:55.501] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-24 13:54:55.502] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"fight-server-1","host":"192.168.0.250","port":6051,"serverType":"fight","pid":3271}}
+[2017-07-24 13:54:55.513] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"gate-server-1","host":"192.168.0.250","clientPort":3014,"frontend":"true","serverType":"gate","pid":3296}}
+[2017-07-24 13:54:55.515] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":3265}}
+[2017-07-24 13:54:55.517] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-24 13:54:55.518] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 522 ms
+[2017-07-24 14:33:30.197] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-24 14:33:30.887] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-24 14:33:30.887] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-24 14:33:30.887] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 431 ms
+[2017-07-24 16:08:10.899] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-24 16:08:12.547] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-24 16:08:12.548] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-24 16:08:12.548] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 776 ms
+[2017-07-24 16:08:12.550] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"gate-server-1","host":"192.168.0.250","clientPort":3014,"frontend":"true","serverType":"gate","pid":15133}}
+[2017-07-24 16:08:12.626] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":15102}}
+[2017-07-24 16:34:38.741] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-24 16:34:39.317] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-24 16:34:39.318] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-24 16:34:39.319] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 451 ms
+[2017-07-24 16:34:39.371] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"fight-server-1","host":"192.168.0.250","port":6051,"serverType":"fight","pid":7786}}
+[2017-07-24 16:34:39.381] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"gate-server-1","host":"192.168.0.250","clientPort":3014,"frontend":"true","serverType":"gate","pid":7814}}
+[2017-07-24 16:34:39.382] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":7780}}
+[2017-07-24 17:27:25.645] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-24 17:27:26.305] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-24 17:27:26.305] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-24 17:27:26.305] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 429 ms
+[2017-07-24 18:50:43.220] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-24 18:50:43.985] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-24 18:50:43.986] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-24 18:50:43.986] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 525 ms
+[2017-07-25 11:53:01.290] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-25 11:53:02.070] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-25 11:53:02.071] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-25 11:53:02.071] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 538 ms
+[2017-07-25 13:54:24.511] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-25 13:54:25.270] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-25 13:54:25.271] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-25 13:54:25.271] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 449 ms
+[2017-07-25 16:17:39.626] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-25 16:17:40.259] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-25 16:17:40.259] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-25 16:17:40.260] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 477 ms
+[2017-07-25 17:41:17.647] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-25 17:41:18.417] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-25 17:41:18.418] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-25 17:41:18.418] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 530 ms
+[2017-07-25 22:12:59.679] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-25 22:13:00.417] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-25 22:13:00.418] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-25 22:13:00.418] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 470 ms
+[2017-07-26 09:48:54.925] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-26 09:48:55.595] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-26 09:48:55.596] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-26 09:48:55.596] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 490 ms
+[2017-07-26 13:59:55.306] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-26 13:59:56.012] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-26 13:59:56.013] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-26 13:59:56.013] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 462 ms
+[2017-07-26 21:40:52.528] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-26 21:40:53.272] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-26 21:40:53.273] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-26 21:40:53.273] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 506 ms
+[2017-07-26 22:42:36.960] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-26 22:42:37.635] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-26 22:42:37.636] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-26 22:42:37.636] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 544 ms
+[2017-07-27 14:20:52.021] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-27 14:20:52.749] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-27 14:20:52.749] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-27 14:20:52.749] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 478 ms
+[2017-07-27 14:27:24.990] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-27 14:27:25.669] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-27 14:27:25.669] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-27 14:27:25.670] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 423 ms
+[2017-07-27 14:27:59.842] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-27 14:28:00.553] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-27 14:28:00.559] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-27 14:28:00.559] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 599 ms
+[2017-07-27 14:28:24.848] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-27 14:28:25.568] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-27 14:28:25.569] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-27 14:28:25.569] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 445 ms
+[2017-07-27 14:28:32.479] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-27 14:28:33.212] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-27 14:28:33.213] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-27 14:28:33.213] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 508 ms
+[2017-07-29 11:56:47.166] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 11:56:47.983] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 11:56:47.984] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 11:56:47.984] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 460 ms
+[2017-07-29 12:56:00.655] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 12:56:01.394] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 12:56:01.394] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 12:56:01.394] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 463 ms
+[2017-07-29 13:47:54.412] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 13:47:55.166] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 13:47:55.166] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 13:47:55.167] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 516 ms
+[2017-07-29 13:56:29.315] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 13:56:29.942] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 13:56:29.943] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 13:56:29.943] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 472 ms
+[2017-07-29 14:03:55.172] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:03:55.824] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:03:55.825] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:03:55.825] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 404 ms
+[2017-07-29 14:14:34.447] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:14:35.204] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:14:35.205] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:14:35.205] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 492 ms
+[2017-07-29 14:16:45.693] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:16:46.386] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:16:46.386] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:16:46.387] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 437 ms
+[2017-07-29 14:20:17.030] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:20:17.808] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:20:17.809] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:20:17.809] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 486 ms
+[2017-07-29 14:22:46.173] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:22:46.930] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:22:46.931] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:22:46.931] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 505 ms
+[2017-07-29 14:24:07.683] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:24:08.492] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:24:08.493] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:24:08.493] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 532 ms
+[2017-07-29 14:25:09.965] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:25:10.728] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:25:10.729] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:25:10.729] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 512 ms
+[2017-07-29 14:26:37.177] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:26:37.883] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:26:37.883] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:26:37.883] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 460 ms
+[2017-07-29 14:27:25.618] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-07-29 14:27:26.338] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-07-29 14:27:26.340] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-07-29 14:27:26.340] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 603 ms
+[2017-07-29 14:27:26.344] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":22569}}
+[2017-07-29 14:27:26.348] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"gate-server-1","host":"192.168.0.250","clientPort":3014,"frontend":"true","serverType":"gate","pid":22600}}
+[2017-08-02 17:28:28.063] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-08-02 17:28:29.751] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-08-02 17:28:29.753] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-08-02 17:28:29.753] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 1064 ms
+[2017-08-02 17:28:29.825] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"gate-server-1","host":"192.168.0.250","clientPort":3014,"frontend":"true","serverType":"gate","pid":5635}}
+[2017-08-02 17:28:30.014] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":5603}}
+[2017-08-03 12:01:48.672] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-08-03 12:01:49.431] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-08-03 12:01:49.431] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-08-03 12:01:49.432] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 452 ms
+[2017-08-15 10:19:26.067] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-08-15 10:19:27.706] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-08-15 10:19:27.707] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-08-15 10:19:27.707] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 817 ms
+[2017-08-19 09:49:28.063] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-08-19 09:49:29.831] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-08-19 09:49:29.832] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-08-19 09:49:29.832] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 739 ms
+[2017-08-20 17:07:10.673] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-08-20 17:07:12.586] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-08-20 17:07:12.587] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-08-20 17:07:12.588] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 1030 ms
+[2017-08-20 17:07:12.669] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":9002}}
+[2017-08-22 12:03:34.296] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-08-22 12:03:36.396] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-08-22 12:03:36.397] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-08-22 12:03:36.397] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 1222 ms
+[2017-08-22 12:03:36.609] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":4060}}
+[2017-08-22 12:14:52.487] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-08-22 12:14:54.521] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-08-22 12:14:54.522] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-08-22 12:14:54.522] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 941 ms
+[2017-08-22 12:14:54.524] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":5841}}
+[2017-10-09 16:19:06.920] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-10-09 16:19:09.074] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-10-09 16:19:09.074] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-10-09 16:19:09.075] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 1077 ms
+[2017-10-09 16:19:09.145] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":4913}}
+[2017-10-09 17:40:32.578] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-10-09 17:40:34.820] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-10-09 17:40:34.821] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-10-09 17:40:34.821] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 1298 ms
+[2017-10-09 17:40:34.912] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":4485}}
+[2017-10-09 17:45:41.020] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "gamehttp"
+[2017-10-09 17:45:43.362] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" enter after start...
+[2017-10-09 17:45:43.362] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" finish start
+[2017-10-09 17:45:43.363] [INFO] pomelo - [32m[/home/zipai_server/game-server/node_modules/pomelo/lib/application.js] [39m"gamehttp" startup in 1043 ms
+[2017-10-09 17:45:43.443] [DEBUG] pomelo - [36m[/home/zipai_server/game-server/node_modules/pomelo/lib/modules/monitorwatcher.js] [39m[gamehttp] receive addServer signal: {"action":"addServer","server":{"main":"/home/zipai_server/game-server/app.js","env":"development","id":"connector-server-1","host":"192.168.0.250","port":4050,"clientHost":"192.168.0.250","clientPort":3050,"frontend":"true","serverType":"connector","pid":5067}}

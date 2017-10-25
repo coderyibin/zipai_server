@@ -1,0 +1,176 @@
+[2017-04-24 11:24:27.093] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":364}]
+[2017-04-24 11:24:27.093] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 11:24:27.098] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":364,"userID":364,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 11:24:27.102] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":364,"nickname":"aa","sex":0,"faceID":0,"registerDate":"2017-04-18T01:21:20.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 11:25:43.052] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":364}]
+[2017-04-24 11:25:43.052] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 11:25:43.056] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":364,"nickname":"aa","sex":0,"faceID":0,"registerDate":"2017-04-18T01:21:20.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 11:25:43.057] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":364,"userID":364,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 11:45:00.602] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[]
+[2017-04-24 11:45:00.603] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao createUser &&
+[2017-04-24 11:45:00.648] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao createUser && successccccccccccxxc:
+771
+[2017-04-24 11:45:00.682] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao createUser && success:
+771
+[2017-04-24 11:45:00.682] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@friendDao enter@@@@@@@
+[2017-04-24 11:45:00.684] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":771,"nickname":"a啊","sex":0,"faceID":0,"registerDate":"2017-04-24T03:45:00.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 11:45:00.684] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":771,"userID":771,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 12:02:45.659] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":1}]
+[2017-04-24 12:02:45.660] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 12:02:45.663] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":1,"userID":1,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 12:02:45.666] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":1,"nickname":"345","sex":0,"faceID":0,"registerDate":"2017-04-13T12:57:25.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 12:21:18.763] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":363}]
+[2017-04-24 12:21:18.763] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 12:21:18.764] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":363,"nickname":"aaa","sex":0,"faceID":0,"registerDate":"2017-04-18T01:20:53.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 12:21:18.765] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":363,"userID":363,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 13:49:00.030] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":364}]
+[2017-04-24 13:49:00.030] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 13:49:00.033] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":364,"nickname":"aa","sex":0,"faceID":0,"registerDate":"2017-04-18T01:21:20.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 13:49:00.033] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":364,"userID":364,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 13:49:17.555] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":363}]
+[2017-04-24 13:49:17.555] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 13:49:17.556] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":363,"nickname":"aaa","sex":0,"faceID":0,"registerDate":"2017-04-18T01:20:53.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 13:49:17.557] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":363,"userID":363,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 14:23:29.245] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":77}]
+[2017-04-24 14:23:29.245] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 14:23:29.250] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":77,"userID":77,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 14:23:29.254] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":77,"nickname":"456","sex":0,"faceID":0,"registerDate":"2017-04-14T01:26:13.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 15:31:14.978] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":77}]
+[2017-04-24 15:31:14.978] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 15:31:14.980] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":77,"nickname":"456","sex":0,"faceID":0,"registerDate":"2017-04-14T01:26:13.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 15:31:14.980] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":77,"userID":77,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 15:31:31.494] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":77}]
+[2017-04-24 15:31:31.494] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 15:31:31.496] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":77,"nickname":"456","sex":0,"faceID":0,"registerDate":"2017-04-14T01:26:13.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 15:31:31.498] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":77,"userID":77,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 15:33:01.297] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":1}]
+[2017-04-24 15:33:01.297] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 15:33:01.301] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":1,"userID":1,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 15:33:01.306] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":1,"nickname":"345","sex":0,"faceID":0,"registerDate":"2017-04-13T12:57:25.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 15:49:30.288] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":652}]
+[2017-04-24 15:49:30.288] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 15:49:30.301] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":652,"userID":652,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 15:49:30.305] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":652,"nickname":"a","sex":0,"faceID":0,"registerDate":"2017-04-20T09:58:07.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 21:40:27.542] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":140}]
+[2017-04-24 21:40:27.542] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 21:40:27.553] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":140,"userID":140,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 21:40:27.556] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":140,"nickname":"234","sex":0,"faceID":0,"registerDate":"2017-04-14T03:08:04.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 21:41:47.188] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":239}]
+[2017-04-24 21:41:47.188] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 21:41:47.198] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":239,"userID":239,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 21:41:47.201] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":239,"nickname":"sdd","sex":0,"faceID":0,"registerDate":"2017-04-14T10:01:49.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 21:43:42.136] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[]
+[2017-04-24 21:43:42.138] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao createUser &&
+[2017-04-24 21:43:42.174] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao createUser && successccccccccccxxc:
+774
+[2017-04-24 21:43:42.256] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao createUser && success:
+774
+[2017-04-24 21:43:42.257] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@friendDao enter@@@@@@@
+[2017-04-24 21:43:42.266] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":774,"nickname":"erftgert","sex":0,"faceID":0,"registerDate":"2017-04-24T13:43:42.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 21:43:42.272] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":774,"userID":774,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 21:53:38.483] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":1}]
+[2017-04-24 21:53:38.483] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 21:53:38.495] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":1,"userID":1,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 21:53:38.498] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":1,"nickname":"345","sex":0,"faceID":0,"registerDate":"2017-04-13T12:57:25.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 22:06:56.216] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":1}]
+[2017-04-24 22:06:56.217] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 22:06:56.228] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":1,"userID":1,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 22:06:56.232] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":1,"nickname":"345","sex":0,"faceID":0,"registerDate":"2017-04-13T12:57:25.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-24 22:17:40.384] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":140}]
+[2017-04-24 22:17:40.391] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-24 22:17:40.394] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":140,"userID":140,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-24 22:17:40.397] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":140,"nickname":"234","sex":0,"faceID":0,"registerDate":"2017-04-14T03:08:04.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-25 09:36:46.624] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":140}]
+[2017-04-25 09:36:46.624] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-25 09:36:46.636] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":140,"userID":140,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-25 09:36:46.639] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":140,"nickname":"234","sex":0,"faceID":0,"registerDate":"2017-04-14T03:08:04.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-25 09:38:15.188] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[]
+[2017-04-25 09:38:15.189] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao createUser &&
+[2017-04-25 09:38:15.238] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao createUser && successccccccccccxxc:
+779
+[2017-04-25 09:38:15.279] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao createUser && success:
+779
+[2017-04-25 09:38:15.280] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@friendDao enter@@@@@@@
+[2017-04-25 09:38:15.284] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":779,"nickname":"ertertt","sex":0,"faceID":0,"registerDate":"2017-04-25T01:38:15.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-25 09:38:15.291] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":779,"userID":779,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-25 09:41:01.270] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":12}]
+[2017-04-25 09:41:01.270] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-25 09:41:01.273] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":12,"userID":12,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-25 09:41:01.276] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":12,"nickname":"juta","sex":0,"faceID":0,"registerDate":"2017-04-13T13:16:21.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-25 09:41:40.504] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":12}]
+[2017-04-25 09:41:40.504] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-25 09:41:40.506] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":12,"nickname":"juta","sex":0,"faceID":0,"registerDate":"2017-04-13T13:16:21.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]
+[2017-04-25 09:41:40.506] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":12,"userID":12,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-25 10:10:59.775] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao isHavaUser && success:
+[{"userID":140}]
+[2017-04-25 10:10:59.775] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39m@@@@@@@@@@@@@@@user is true@@@@@@@
+[2017-04-25 10:10:59.787] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\scoreDao.js] [39mscoreDao getScoreInfo && success:
+[{"id":140,"userID":140,"gold":5000,"fightCardCount":5,"winCount":0,"lostCount":0,"thCount":0,"dhCount":0,"phCount":0,"zmCount":0,"dpCount":0,"slwkhCount":0,"fxCount":0}]
+[2017-04-25 10:10:59.791] [INFO] guilin - [32m[e:\zipai\zipai_server\game-server\app\dao\userDao.js] [39muserDao getUserInfo && success:
+[{"userID":140,"nickname":"234","sex":0,"faceID":0,"registerDate":"2017-04-14T03:08:04.000Z","lastLoginDate":"0000-00-00 00:00:00","registerIP":"","lastLoginIP":"","phoneNo":"","gameStatus":0}]

@@ -1,0 +1,48 @@
+{
+  "development":{
+    "connector": [
+      {"id": "connector-server-1", "host": "192.168.0.250", "port": 4050, "clientHost": "192.168.0.250", "clientPort": 3050, "frontend": true}
+    ],
+    "fight": [
+      {"id": "fight-server-1", "host": "192.168.0.250", "port": 6051}
+    ],
+    "auth": [
+      {"id": "auth-server-1", "host": "192.168.0.250", "port": 3650}
+    ],
+    "game": [
+      {"id": "game-server-1", "host": "192.168.0.250", "port": 3250}
+    ],
+    "chat": [
+      {"id":"chat-server-1","host":"192.168.0.250","port":3450}
+    ],
+    "gamehttp": [
+      {"id": "gamehttp","port": 3002,"host": "192.168.0.250"}
+    ],
+    "gate": [
+      {"id": "gate-server-1", "host": "192.168.0.250", "clientPort": 3014, "frontend": true}
+    ]
+  },
+  "production":{
+    "connector": [
+      {"id": "connector-server-1", "host": "192.168.0.250", "port": 4050, "clientPort": 3050, "frontend": true}
+    ],
+    "fight": [
+      {"id": "fight-server-1", "host": "192.168.0.250", "port": 6051}
+    ],
+    "auth": [
+      {"id": "auth-server-1", "host": "192.168.0.250", "port": 3650}
+    ],
+    "game": [
+      {"id": "game-server-1", "host": "192.168.0.250", "port": 3250}
+    ],
+    "chat": [
+      {"id":"chat-server-1","host":"192.168.0.250","port":3450}
+    ],
+    "gamehttp": [
+      {"id": "gamehttp","port": 3002,"host": "192.168.0.250"}
+    ],
+    "gate": [
+      {"id": "gate-server-1", "host": "192.168.0.250", "clientPort": 3014, "frontend": true}
+    ]
+  }
+}

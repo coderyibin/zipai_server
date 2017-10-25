@@ -1,0 +1,11 @@
+{
+  "gate.gateHandler.queryEntry" : {
+  },
+  "fight.fightHandler.getLordPlayer" : {
+  },
+  "fight.fightHandler.postCard" : {
+    "required uInt32 id" : 1
+  },
+  "fight.fightHandler.getCardInfo" : {
+  }
+}

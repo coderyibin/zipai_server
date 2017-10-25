@@ -1,0 +1,23 @@
+{
+  "name": "zipai_server",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "MD5": "^1.3.0",
+    "array.chunk": "^1.1.0",
+    "body-parser": "^1.17.1",
+    "eventproxy": "^0.3.5",
+    "express": "^3.21.2",
+    "generic-pool": "*",
+    "mysql": "^2.13.0",
+    "node-range": "^0.1.0",
+    "pomelo": "^2.2.5",
+    "pomelo-globalchannel-plugin": "0.0.7",
+    "pomelo-http-plugin": "0.0.25",
+    "pomelo-status-plugin": "0.0.6",
+    "pomelo-sync-plugin": "0.0.1",
+    "redis": "2.7.1",
+    "shuffle-array": "^1.0.1",
+    "xml2js": "^0.4.17"
+  }
+}

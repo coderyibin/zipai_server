@@ -1,0 +1,689 @@
+[2017-07-21 15:18:42.869] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 15:18:43.595] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 15:18:43.746] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 15:18:43.783] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 15:18:43.792] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 15:18:43.832] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 15:18:43.845] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 15:18:43.913] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 15:19:58.694] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 15:19:58.694] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 15:19:58.694] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 15:19:58.696] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 15:19:58.701] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 15:19:58.701] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 15:19:58.705] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 15:20:11.654] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 15:20:11.727] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 15:20:12.372] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 15:20:12.604] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 15:20:12.618] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 15:20:12.634] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 15:20:12.701] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 15:20:12.704] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 15:20:12.769] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 15:21:22.677] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 15:21:22.744] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 15:21:23.469] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 15:21:23.554] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 15:21:23.653] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 15:21:23.739] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 15:21:23.736] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 15:21:23.759] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 15:21:23.848] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 16:23:03.528] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 16:23:03.528] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 16:23:03.536] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 16:23:03.537] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 16:23:03.541] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 16:23:03.543] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 16:23:03.549] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 16:23:23.806] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 16:23:23.865] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 16:23:24.638] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 16:23:24.721] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 16:23:24.801] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 16:23:24.835] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 16:23:24.845] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 16:23:24.885] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 16:23:24.896] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 16:35:32.312] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 16:35:32.379] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 16:35:32.979] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 16:35:33.192] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 16:35:33.281] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 16:35:33.351] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 16:35:33.359] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 16:35:33.415] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 16:35:33.425] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 16:43:51.963] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 16:43:52.023] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 16:43:52.765] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 16:43:52.821] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 16:43:52.929] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 16:43:52.924] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 16:43:52.951] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 16:43:53.032] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 16:43:53.075] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 18:48:49.561] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 18:48:49.561] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 18:48:49.561] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 18:48:49.562] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 18:48:49.567] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 18:48:49.573] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 18:48:49.566] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 18:49:09.185] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 18:49:09.244] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 18:49:09.931] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 18:49:10.047] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 18:49:10.131] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 18:49:10.202] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 18:49:10.231] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 18:49:10.293] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 18:49:10.298] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 18:59:34.468] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 18:59:34.555] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 18:59:36.783] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 18:59:36.880] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 18:59:37.091] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 18:59:37.336] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 18:59:37.614] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 18:59:37.628] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 18:59:37.791] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 19:51:14.162] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:51:14.162] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:51:14.162] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:51:14.166] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:51:14.167] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:51:14.162] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:51:14.165] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:51:21.558] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 19:51:21.630] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 19:51:22.159] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 19:51:22.522] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 19:51:22.566] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 19:51:22.576] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 19:51:22.604] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 19:54:12.253] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:12.257] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:12.257] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:12.255] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:12.253] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:25.684] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 19:54:25.743] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 19:54:26.503] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 19:54:26.559] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 19:54:26.646] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 19:54:26.693] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 19:54:26.752] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 19:54:35.833] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is error, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:35.834] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is error, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:35.834] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:35.834] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:54:35.837] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is error, remote server host: 192.168.0.250, port: 3005
+[2017-07-21 19:55:31.410] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 19:55:31.473] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 19:55:32.156] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 19:55:32.281] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 19:55:32.339] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 19:55:32.373] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 19:55:32.515] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 19:56:18.635] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 19:56:18.691] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 19:56:19.256] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 19:56:19.548] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 19:56:19.556] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 19:56:19.590] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-21 19:56:19.694] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 19:56:19.703] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 19:56:19.705] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 19:56:41.434] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-21 19:56:41.504] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-21 19:56:42.097] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-21 19:56:42.281] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-21 19:56:42.350] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-21 19:56:42.354] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-21 19:56:42.484] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-21 19:56:42.501] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-21 19:56:42.524] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-24 13:54:46.238] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 13:54:46.239] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 13:54:46.239] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 13:54:46.242] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 13:54:46.243] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 13:54:46.242] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 13:54:46.246] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 13:54:54.312] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-24 13:54:54.385] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-24 13:54:55.068] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-24 13:54:55.227] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-24 13:54:55.302] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-24 13:54:55.359] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-24 13:54:55.411] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-24 13:54:55.420] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-24 13:54:55.412] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-24 14:33:21.549] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 14:33:21.551] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 14:33:21.549] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 14:33:21.551] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 14:33:21.553] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 14:33:21.553] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 14:33:21.553] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 14:33:29.575] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-24 14:33:29.661] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-24 14:33:30.302] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-24 14:33:30.439] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-24 14:33:30.556] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-24 14:33:30.602] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-24 14:33:30.619] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-24 14:33:30.687] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-24 14:33:30.699] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-24 16:08:10.459] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-24 16:08:10.533] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-24 16:08:12.025] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-24 16:08:12.038] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-24 16:08:12.186] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-24 16:08:12.222] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-24 16:08:12.343] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-24 16:08:12.476] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-24 16:08:12.524] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-24 16:34:26.037] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 16:34:26.037] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 16:34:26.037] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 16:34:26.037] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 16:34:26.041] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 16:34:26.041] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 16:34:26.046] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 16:34:38.216] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-24 16:34:38.275] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-24 16:34:38.951] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-24 16:34:39.102] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-24 16:34:39.110] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-24 16:34:39.164] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-24 16:34:39.242] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-24 16:34:39.287] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-24 16:34:39.298] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-24 17:27:15.091] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 17:27:15.091] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 17:27:15.091] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 17:27:15.091] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 17:27:15.094] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 17:27:15.096] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 17:27:15.101] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 17:27:25.031] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-24 17:27:25.105] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-24 17:27:25.789] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-24 17:27:25.927] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-24 17:27:25.954] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-24 17:27:25.938] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-24 17:27:26.032] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-24 17:27:26.100] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-24 17:27:26.111] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-24 18:50:33.608] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 18:50:33.612] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 18:50:33.613] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 18:50:33.608] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 18:50:33.613] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 18:50:33.613] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 18:50:33.608] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-24 18:50:42.697] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-24 18:50:42.758] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-24 18:50:43.322] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-24 18:50:43.580] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-24 18:50:43.644] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-24 18:50:43.671] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-24 18:50:43.704] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-24 18:50:43.771] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-24 18:50:43.796] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-25 11:52:43.613] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 11:52:43.616] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 11:52:43.618] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 11:52:43.615] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 11:52:43.618] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 11:52:43.614] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 11:52:43.618] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 11:53:00.755] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-25 11:53:00.827] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-25 11:53:01.459] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-25 11:53:01.598] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-25 11:53:01.717] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-25 11:53:01.726] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-25 11:53:01.794] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-25 11:53:01.837] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-25 11:53:01.882] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-25 13:54:07.715] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 13:54:07.715] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 13:54:07.715] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 13:54:07.715] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 13:54:07.719] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 13:54:07.720] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 13:54:07.718] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 13:54:23.963] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-25 13:54:24.021] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-25 13:54:24.704] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-25 13:54:24.862] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-25 13:54:24.852] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-25 13:54:24.954] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-25 13:54:25.003] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-25 13:54:25.066] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-25 13:54:25.065] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-25 16:17:32.169] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 16:17:32.170] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 16:17:32.177] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 16:17:32.177] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 16:17:32.185] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 16:17:32.185] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 16:17:32.188] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 16:17:39.048] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-25 16:17:39.099] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-25 16:17:39.674] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-25 16:17:40.030] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-25 16:17:40.033] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-25 16:17:40.069] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-25 16:17:40.094] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-25 16:17:40.102] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-25 16:17:40.108] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-25 17:41:10.421] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 17:41:10.422] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 17:41:10.422] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 17:41:10.424] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 17:41:10.433] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 17:41:10.442] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 17:41:10.447] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 17:41:17.086] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-25 17:41:17.161] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-25 17:41:17.829] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-25 17:41:17.954] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-25 17:41:18.078] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-25 17:41:18.087] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-25 17:41:18.140] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-25 17:41:18.193] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-25 17:41:18.230] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-25 22:11:06.777] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:11:06.777] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:11:06.777] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:11:06.780] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:11:06.781] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:11:06.783] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:11:06.777] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:11:14.622] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-25 22:11:14.704] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-25 22:11:15.419] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-25 22:11:15.557] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-25 22:11:15.615] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-25 22:11:15.657] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-25 22:12:44.999] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:12:44.999] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:12:44.999] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:12:44.999] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-25 22:12:59.086] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-25 22:12:59.145] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-25 22:12:59.876] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-25 22:12:59.877] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-25 22:12:59.935] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-25 22:13:00.091] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-25 22:13:00.169] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-25 22:13:00.172] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-25 22:13:00.209] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-26 09:48:44.851] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 09:48:44.851] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 09:48:44.852] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 09:48:44.851] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 09:48:44.855] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 09:48:44.860] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 09:48:44.859] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 09:48:54.344] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-26 09:48:54.411] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-26 09:48:54.956] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-26 09:48:55.245] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-26 09:48:55.279] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-26 09:48:55.329] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-26 09:48:55.388] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-26 09:48:55.426] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-26 09:48:55.437] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-26 13:59:47.368] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 13:59:47.372] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 13:59:47.368] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 13:59:47.368] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 13:59:47.373] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 13:59:47.374] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 13:59:47.376] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 13:59:54.685] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-26 13:59:54.741] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-26 13:59:55.470] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-26 13:59:55.532] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-26 13:59:55.584] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-26 13:59:55.701] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-26 13:59:55.733] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-26 13:59:55.755] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-26 13:59:55.794] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-26 21:40:42.421] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 21:40:42.425] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 21:40:42.421] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 21:40:42.425] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 21:40:42.425] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 21:40:42.428] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 21:40:42.421] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 21:40:51.943] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-26 21:40:52.017] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-26 21:40:52.804] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-26 21:40:52.905] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-26 21:40:52.923] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-26 21:40:52.948] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-26 21:40:52.965] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-26 21:40:52.986] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-26 21:40:53.061] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-26 22:42:30.128] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 22:42:30.129] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 22:42:30.128] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 22:42:30.129] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 22:42:30.133] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 22:42:30.137] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 22:42:30.132] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-26 22:42:36.426] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-26 22:42:36.506] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-26 22:42:37.283] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-26 22:42:37.430] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-26 22:42:37.450] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-26 22:42:37.469] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-26 22:42:37.459] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-26 22:42:37.500] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-26 22:42:37.505] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-27 14:20:39.873] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:20:39.874] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:20:39.877] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:20:39.877] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:20:39.873] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:20:39.873] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:20:39.879] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:20:51.406] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-27 14:20:51.464] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-27 14:20:52.268] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-27 14:20:52.330] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-27 14:20:52.368] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-27 14:20:52.424] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-27 14:20:52.480] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-27 14:20:52.548] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-27 14:27:09.248] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:27:09.248] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:27:09.248] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:27:09.251] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:27:09.252] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:27:09.248] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-27 14:27:24.363] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-27 14:27:24.420] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-27 14:27:25.310] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-27 14:27:25.302] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-27 14:27:25.363] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-27 14:27:25.378] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-27 14:27:25.389] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-27 14:27:25.477] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-27 14:27:59.296] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-27 14:27:59.356] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-27 14:28:00.276] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-27 14:28:00.290] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-27 14:28:00.321] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-27 14:28:00.323] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-27 14:28:00.355] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-27 14:28:00.365] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-27 14:28:24.245] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-27 14:28:24.306] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-27 14:28:25.104] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-27 14:28:25.107] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-27 14:28:25.244] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-27 14:28:25.234] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-27 14:28:25.296] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-27 14:28:25.295] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-27 14:28:25.378] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-27 14:28:31.888] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-27 14:28:31.944] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-27 14:28:32.621] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-27 14:28:32.812] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-27 14:28:32.885] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-27 14:28:32.939] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-27 14:28:32.939] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-27 14:28:32.963] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-27 14:28:33.011] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 11:56:37.382] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 11:56:37.382] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 11:56:37.382] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 11:56:37.382] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 11:56:37.386] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 11:56:37.387] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 11:56:37.393] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 11:56:46.590] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 11:56:46.660] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 11:56:47.532] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 11:56:47.530] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 11:56:47.647] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 11:56:47.699] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 11:56:47.787] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 11:56:47.820] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 11:56:47.865] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 12:55:33.154] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 12:55:33.154] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 12:55:33.154] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 12:55:33.155] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 12:55:33.159] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 12:55:33.158] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 12:55:33.164] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 12:56:00.090] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 12:56:00.162] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 12:56:00.857] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 12:56:01.051] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 12:56:01.064] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 12:56:01.085] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 12:56:01.122] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 12:56:01.119] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 12:56:01.205] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 13:47:41.723] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 13:47:41.723] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 13:47:41.723] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 13:47:41.728] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 13:47:41.724] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 13:47:41.730] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 13:47:41.728] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-07-29 13:47:53.878] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 13:47:53.934] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 13:47:54.500] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 13:47:54.816] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 13:47:54.834] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 13:47:54.895] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 13:47:54.910] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 13:47:54.974] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 13:47:54.978] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 13:56:28.710] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 13:56:28.771] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 13:56:29.562] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 13:56:29.661] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 13:56:29.680] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 13:56:29.735] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 13:56:29.761] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 13:56:29.774] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 13:56:29.810] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:03:54.500] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:03:54.559] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:03:55.215] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:03:55.392] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:03:55.477] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:03:55.495] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:03:55.496] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:03:55.560] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:03:55.628] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:14:33.864] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:14:33.926] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:14:34.561] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:14:34.849] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:14:34.886] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:14:34.911] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:14:34.935] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:14:34.967] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:14:35.013] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:16:45.105] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:16:45.167] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:16:45.809] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:16:45.953] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:16:45.992] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:16:46.187] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:16:46.167] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:16:46.191] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:16:46.207] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:20:16.478] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:20:16.528] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:20:17.330] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:20:17.382] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:20:17.465] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:20:17.486] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:20:17.522] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:20:17.562] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:20:17.609] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:22:45.639] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:22:45.698] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:22:46.526] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:22:46.595] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:22:46.585] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:22:46.647] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:22:46.657] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:22:46.723] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:22:46.736] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:24:07.150] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:24:07.224] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:24:07.984] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:24:08.071] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:24:08.174] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:24:08.207] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:24:08.224] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:24:08.221] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:24:08.299] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:25:09.424] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:25:09.477] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:25:10.106] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:25:10.225] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:25:10.419] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:25:10.485] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:25:10.489] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:25:10.502] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:25:10.537] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:26:36.552] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:26:36.613] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:26:37.274] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:26:37.472] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:26:37.540] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:26:37.591] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-07-29 14:26:37.589] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:26:37.589] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:26:37.681] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:27:25.172] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-29 14:27:25.229] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-07-29 14:27:26.039] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-07-29 14:27:26.071] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-07-29 14:27:26.113] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-07-29 14:27:26.184] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-07-29 14:27:26.195] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-07-29 14:27:26.261] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-07-29 14:27:26.259] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-02 17:28:27.592] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-02 17:28:27.654] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-08-02 17:28:29.200] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-08-02 17:28:29.230] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-08-02 17:28:29.353] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-08-02 17:28:29.532] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-08-02 17:28:29.554] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-08-02 17:28:29.721] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-02 17:28:29.911] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-08-03 12:01:39.236] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-03 12:01:39.235] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-03 12:01:39.234] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-03 12:01:39.237] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-03 12:01:39.239] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-03 12:01:39.240] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-03 12:01:39.244] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-03 12:01:48.049] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-03 12:01:48.116] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-08-03 12:01:48.850] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-08-03 12:01:48.888] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-08-03 12:01:48.917] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-08-03 12:01:49.026] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-08-03 12:01:49.086] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-03 12:01:49.155] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-08-03 12:01:49.221] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-08-15 10:19:13.105] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-15 10:19:13.105] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-15 10:19:13.105] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-15 10:19:13.109] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-15 10:19:13.110] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-15 10:19:13.105] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-15 10:19:13.110] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-08-15 10:19:25.540] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-15 10:19:25.607] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-08-15 10:19:27.218] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-15 10:19:27.248] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-08-15 10:19:27.237] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-08-15 10:19:27.373] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-08-15 10:19:27.485] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-08-15 10:19:27.513] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-08-15 10:19:27.521] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-08-19 09:49:27.387] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-19 09:49:27.471] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-08-19 09:49:28.797] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-08-19 09:49:28.952] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-08-19 09:49:29.134] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-19 09:49:29.198] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-08-19 09:49:29.524] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-08-19 09:49:29.618] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-08-19 09:49:29.660] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-08-20 17:07:10.059] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-20 17:07:10.117] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-08-20 17:07:11.914] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-20 17:07:11.961] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-08-20 17:07:12.049] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-08-20 17:07:12.260] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-08-20 17:07:12.380] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-08-20 17:07:12.447] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-08-20 17:07:12.568] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-08-22 12:03:33.711] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-22 12:03:33.770] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-08-22 12:03:35.538] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-08-22 12:03:35.633] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-22 12:03:35.694] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-08-22 12:03:35.837] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-08-22 12:03:36.162] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-08-22 12:03:36.207] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-08-22 12:03:36.509] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-08-22 12:14:52.015] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-22 12:14:52.087] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-08-22 12:14:53.717] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-08-22 12:14:53.765] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-08-22 12:14:53.897] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-08-22 12:14:54.049] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-08-22 12:14:54.328] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-08-22 12:14:54.352] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-08-22 12:14:54.450] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-10-09 16:19:06.353] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-10-09 16:19:06.406] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-10-09 16:19:08.281] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-10-09 16:19:08.314] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-10-09 16:19:08.435] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-10-09 16:19:08.639] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-10-09 16:19:08.885] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-10-09 16:19:08.925] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-10-09 16:19:09.026] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-10-09 17:38:27.828] [ERROR] pomelo-admin - [31m[MqttClient] [39mmqtt socket is close, remote server host: 192.168.0.250, port: 3005
+[2017-10-09 17:40:32.018] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-10-09 17:40:32.085] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-10-09 17:40:33.940] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-10-09 17:40:34.078] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-10-09 17:40:34.258] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-10-09 17:40:34.406] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-10-09 17:40:34.624] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-10-09 17:40:34.666] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-10-09 17:40:34.799] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005
+[2017-10-09 17:45:40.632] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-10-09 17:45:40.701] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "192.168.0.250", 3005
+[2017-10-09 17:45:42.594] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "192.168.0.250", 3005
+[2017-10-09 17:45:42.635] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "192.168.0.250", 3005
+[2017-10-09 17:45:42.772] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "game", "192.168.0.250", 3005
+[2017-10-09 17:45:42.903] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "auth", "192.168.0.250", 3005
+[2017-10-09 17:45:43.156] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gamehttp", "192.168.0.250", 3005
+[2017-10-09 17:45:43.227] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "fight", "192.168.0.250", 3005
+[2017-10-09 17:45:43.316] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "192.168.0.250", 3005

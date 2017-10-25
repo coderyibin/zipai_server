@@ -1,0 +1,19 @@
+{
+  "development": {
+    "host": "127.0.0.1",
+    "port": "3306",
+    "database": "guilin",
+    "user":"root",
+    "password":"xunle_sql8808",
+    "useConnectionPooling": true
+
+  },
+  "production": {
+    "host": "127.0.0.1",
+    "port": "3306",
+    "database": "guilin",
+    "user":"root",
+    "password":"xunle_sql8808",
+    "useConnectionPooling": true
+  }
+}
